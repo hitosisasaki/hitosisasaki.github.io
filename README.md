@@ -1,1 +1,1 @@
-<!--suppress HtmlDeprecatedAttribute -->
+<span class="kgg">kgg<span>
